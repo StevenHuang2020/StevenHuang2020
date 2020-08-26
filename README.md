@@ -17,6 +17,9 @@
                              #
                             #
 ```
+
+<img src="images/hi.svg">
+
 ## Welcome to my site. :grinning:
 
 
