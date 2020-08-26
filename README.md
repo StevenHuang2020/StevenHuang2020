@@ -18,7 +18,7 @@
                             #
 ```
 
-<img src="Hi.svg" />
+<img src="https://github.com/StevenHuang2020/StevenHuang2020/blob/master/Hi.svg" />
 
 ## Welcome to my site. :grinning:
 
