@@ -25,7 +25,7 @@
 
 ## Technologies&Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![Python Version](https://img.shields.io/badge/Python-blue)
+![Python Version](https://img.shields.io/badge/Python-version3-blue)
 ![OpenCV Version](https://img.shields.io/badge/OpenCV-blue)
 ![VSCode Version](https://img.shields.io/badge/VSCode-blue)
 
