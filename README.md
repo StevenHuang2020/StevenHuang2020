@@ -20,13 +20,14 @@
 ## Welcome to my site. :grinning::+1:
 
 
-- 🔭 I’m a Master student in AUT,NZ.
-- 🌱 I’m currently learning AI/ML/DL/CV.
+- I’m a Master student from AUT,NZ.
+- I’m currently learning AI/ML/DL/CV.
 
 ## Technologies&Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) 
-![Python Version](https://img.shields.io/badge/Python-v3.6-blue)
+![Python Version](https://img.shields.io/badge/Python-blue)
+![OpenCV Version](https://img.shields.io/badge/OpenCV-blue)
+![VSCode Version](https://img.shields.io/badge/VSCode-blue)
 
 ## &#x1f4c8; GitHub Stats
 
