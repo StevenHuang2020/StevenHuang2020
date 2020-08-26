@@ -18,7 +18,7 @@
                             #
 ```
 
-<img src="Hi.svg">
+<img src="Hi.svg" />
 
 ## Welcome to my site. :grinning:
 
