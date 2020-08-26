@@ -17,7 +17,7 @@
                              #
                             #
 ```
-## Welcome to my site. :grinning::+1:
+## Welcome to my site. :grinning:
 
 
 - I’m a Master student from AUT,NZ.
