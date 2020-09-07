@@ -2,15 +2,14 @@
 
 ## Welcome to my site. :grinning:
 
-
-- I’m a Master student from AUT,NZ.
-- I’m currently learning AI/ML/DL/CV.
+Enjoy your programming, and keep improving.
 
 ## Technologies&Tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![Python Version](https://img.shields.io/badge/Python-v3.6-blue)
 ![OpenCV Version](https://img.shields.io/badge/OpenCV-blue)
 ![VSCode Version](https://img.shields.io/badge/VSCode-blue)
+<img width="64" height="64" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
 ## &#x1f4c8; GitHub Stats
 
