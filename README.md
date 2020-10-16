@@ -1,6 +1,6 @@
 <img src="https://github.com/StevenHuang2020/StevenHuang2020/blob/master/Hi.svg" />
 
-## Welcome to my site. :grinning:
+## Welcome to my channel. :grinning:
 
 Enjoy your programming, and keep improving.
 
