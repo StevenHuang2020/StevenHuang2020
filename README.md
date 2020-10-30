@@ -25,6 +25,17 @@ Enjoy your programming, and keep improving.
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=StevenHuang2020&repo=COVID-19-Statistics&title_color=0c0c0c&text_color=0c0c0c&icon_color=2bbc8a&bg_color=ffffff" />
 </a>
 
+<a href="https://github.com/StevenHuang2020/PythonGen_SVGImage">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=StevenHuang2020&repo=PythonGen_SVGImage&title_color=0c0c0c&text_color=0c0c0c&icon_color=2bbc8a&bg_color=ffffff" />
+</a>
+
 <a href="https://github.com/StevenHuang2020/python-interesting-examples">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=StevenHuang2020&repo=python-interesting-examples&title_color=0c0c0c&text_color=0c0c0c&icon_color=2bbc8a&bg_color=ffffff" />
 </a>    
+
+<a href="https://github.com/StevenHuang2020/OpencvPython">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=StevenHuang2020&repo=OpencvPython&title_color=0c0c0c&text_color=0c0c0c&icon_color=2bbc8a&bg_color=ffffff" />
+</a>   
+
+
+
