@@ -31,9 +31,9 @@
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/StevenHuang2020/StevenHuang2020">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StevenHuang2020&langs_count=10&title_color=32CD32&text_color=0c0c0c&icon_color=2bbc8a&bg_color=ffffff" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StevenHuang2020&langs_count=10&title_color=2BBC8A&text_color=0c0c0c&icon_color=2bbc8a&bg_color=ffffff" />
 </a> 
 
 <a href="https://github.com/StevenHuang2020/StevenHuang2020">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=StevenHuang2020&show_icons=true&line_height=30&count_private=true&title_color=32CD32&text_color=0c0c0c&icon_color=2bbc8a&bg_color=ffffff" alt="Steven's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=StevenHuang2020&show_icons=true&line_height=30&count_private=true&title_color=2BBC8A&text_color=0c0c0c&icon_color=2bbc8a&bg_color=ffffff" alt="Steven's GitHub Stats" />
 </a>
